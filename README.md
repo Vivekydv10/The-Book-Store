@@ -10,5 +10,3 @@ students can search for a book, later can add the selected book to the shopping 
 ![image](https://github.com/KordePriyanka/Books4MU-Book-Store-Website-/assets/98102061/47c99d08-0e92-4299-aaa0-341f587980d6)
 ## Cart Page:
 ![image](https://github.com/KordePriyanka/Books4MU-Book-Store-Website-/assets/98102061/b31730e5-3b05-471e-8058-c5c77765fa8f)
-## Documentation
-(https://drive.google.com/file/d/1sUaCLNa-rYuv22EB1Hf4R5jxRXN5uAkF/view?usp=sharing)https://drive.google.com/file/d/1sUaCLNa-rYuv22EB1Hf4R5jxRXN5uAkF/view?usp=sharing)
